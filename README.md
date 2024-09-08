@@ -11,7 +11,7 @@ This repository contains a project that utilizes **transfer learning** with a pr
 - **Transfer Learning**: Fine-tuned the convolutional layers with a small learning rate, and fully connected layers were trained from scratch.
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/danalejosolerma/fine-tuning/main/images/confusion.png" width="400" height="400" />
+	<img src="https://raw.githubusercontent.com/danalejosolerma/fine-tuning/main/images/confusion.png" width="450" height="400" />
 </p>
 
 ## Features:
